@@ -1,0 +1,332 @@
+[2022-04-05 13:48:13.496] learner started
+[2022-04-05 13:48:13.496] Running the learner on device 0: /cpu:0
+[2022-04-05 14:08:05.202] learner started
+[2022-04-05 14:08:05.202] Running the learner on device 0: /cpu:0
+[2022-04-05 14:21:44.109] learner started
+[2022-04-05 14:21:44.109] Running the learner on device 0: /cpu:0
+[2022-04-05 14:26:57.245] learner started
+[2022-04-05 14:26:57.245] Running the learner on device 0: /cpu:0
+[2022-04-05 14:43:04.363] learner started
+[2022-04-05 14:43:04.363] Running the learner on device 0: /cpu:0
+[2022-04-05 14:48:40.686] learner started
+[2022-04-05 14:48:40.686] Running the learner on device 0: /cpu:0
+[2022-04-05 14:49:20.331] learner started
+[2022-04-05 14:49:20.331] Running the learner on device 0: /cpu:0
+[2022-04-05 14:51:00.020] learner started
+[2022-04-05 14:51:00.020] Running the learner on device 0: /cpu:0
+[2022-04-05 15:01:26.153] learner started
+[2022-04-05 15:01:26.153] Running the learner on device 0: /cpu:0
+[2022-04-05 15:02:38.341] learner started
+[2022-04-05 15:02:38.341] Running the learner on device 0: /cpu:0
+[2022-04-05 15:03:04.029] learner started
+[2022-04-05 15:03:04.029] Running the learner on device 0: /cpu:0
+[2022-04-05 15:03:16.527] Step: 1
+[2022-04-05 15:03:16.527] Collected   128 states from  17 games, 1.8 states/s; 0.4 states/(s*actor), game length: 7.5
+[2022-04-05 15:03:16.527] Queue size: 0. Buffer size: 128. States seen: 128
+[2022-04-05 15:03:16.528] Closing the log.
+[2022-04-05 15:03:45.941] learner started
+[2022-04-05 15:03:45.941] Running the learner on device 0: /cpu:0
+[2022-04-05 15:05:48.168] learner started
+[2022-04-05 15:05:48.168] Running the learner on device 0: /cpu:0
+[2022-04-05 15:05:51.373] Step: 1
+[2022-04-05 15:05:51.373] Collected    21 states from   5 games, 0.3 states/s; 0.1 states/(s*actor), game length: 4.2
+[2022-04-05 15:05:51.373] Queue size: 0. Buffer size: 21. States seen: 21
+[2022-04-05 15:05:51.373] Closing the log.
+[2022-04-05 15:05:54.081] learner started
+[2022-04-05 15:05:54.081] Running the learner on device 0: /cpu:0
+[2022-04-05 15:05:59.298] Step: 1
+[2022-04-05 15:05:59.298] Collected    74 states from  13 games, 1.1 states/s; 0.3 states/(s*actor), game length: 5.7
+[2022-04-05 15:05:59.298] Queue size: 0. Buffer size: 74. States seen: 74
+[2022-04-05 15:05:59.298] Closing the log.
+[2022-04-05 15:11:25.618] learner started
+[2022-04-05 15:11:25.618] Running the learner on device 0: /cpu:0
+[2022-04-05 15:11:57.261] learner started
+[2022-04-05 15:11:57.261] Running the learner on device 0: /cpu:0
+[2022-04-05 15:11:59.395] Step: 1
+[2022-04-05 15:11:59.395] Collected    14 states from   3 games, 0.2 states/s; 0.1 states/(s*actor), game length: 4.7
+[2022-04-05 15:11:59.395] Queue size: 0. Buffer size: 14. States seen: 14
+[2022-04-05 15:11:59.395] Closing the log.
+[2022-04-05 15:13:04.250] learner started
+[2022-04-05 15:13:04.250] Running the learner on device 0: /cpu:0
+[2022-04-05 15:13:10.817] Step: 1
+[2022-04-05 15:13:10.817] Collected    29 states from   5 games, 0.4 states/s; 0.1 states/(s*actor), game length: 5.8
+[2022-04-05 15:13:10.817] Queue size: 0. Buffer size: 29. States seen: 29
+[2022-04-05 15:13:10.817] Closing the log.
+[2022-04-05 15:16:54.682] learner started
+[2022-04-05 15:16:54.682] Running the learner on device 0: /cpu:0
+[2022-04-05 15:17:31.429] learner started
+[2022-04-05 15:17:31.429] Running the learner on device 0: /cpu:0
+[2022-04-05 15:17:51.010] learner started
+[2022-04-05 15:17:51.010] Running the learner on device 0: /cpu:0
+[2022-04-05 15:18:20.470] learner started
+[2022-04-05 15:18:20.470] Running the learner on device 0: /cpu:0
+[2022-04-05 15:18:28.426] learner started
+[2022-04-05 15:18:28.426] Running the learner on device 0: /cpu:0
+[2022-04-05 15:18:53.378] learner started
+[2022-04-05 15:18:53.378] Running the learner on device 0: /cpu:0
+[2022-04-05 15:19:22.529] learner started
+[2022-04-05 15:19:22.529] Running the learner on device 0: /cpu:0
+[2022-04-05 15:21:11.213] learner started
+[2022-04-05 15:21:11.213] Running the learner on device 0: /cpu:0
+[2022-04-05 15:21:12.229] Step: 1
+[2022-04-05 15:21:12.229] Collected    16 states from   4 games, 0.3 states/s; 0.1 states/(s*actor), game length: 4.0
+[2022-04-05 15:21:12.229] Queue size: 0. Buffer size: 16. States seen: 16
+[2022-04-05 15:21:12.230] Closing the log.
+[2022-04-05 15:22:16.442] learner started
+[2022-04-05 15:22:16.442] Running the learner on device 0: /cpu:0
+[2022-04-05 15:22:52.846] learner started
+[2022-04-05 15:22:52.846] Running the learner on device 0: /cpu:0
+[2022-04-05 15:23:34.914] learner started
+[2022-04-05 15:23:34.914] Running the learner on device 0: /cpu:0
+[2022-04-05 15:24:44.330] learner started
+[2022-04-05 15:24:44.330] Running the learner on device 0: /cpu:0
+[2022-04-05 15:25:44.390] learner started
+[2022-04-05 15:25:44.390] Running the learner on device 0: /cpu:0
+[2022-04-05 15:27:15.470] learner started
+[2022-04-05 15:27:15.470] Running the learner on device 0: /cpu:0
+[2022-04-05 15:27:27.722] learner started
+[2022-04-05 15:27:27.722] Running the learner on device 0: /cpu:0
+[2022-04-05 15:28:11.765] learner started
+[2022-04-05 15:28:11.765] Running the learner on device 0: /cpu:0
+[2022-04-05 15:29:31.873] learner started
+[2022-04-05 15:29:31.873] Running the learner on device 0: /cpu:0
+[2022-04-05 15:31:24.205] learner started
+[2022-04-05 15:31:24.205] Running the learner on device 0: /cpu:0
+[2022-04-05 15:31:29.524] learner started
+[2022-04-05 15:31:29.525] Running the learner on device 0: /cpu:0
+[2022-04-05 15:31:31.891] Step: 1
+[2022-04-05 15:31:31.891] Collected    22 states from   5 games, 0.4 states/s; 0.1 states/(s*actor), game length: 4.4
+[2022-04-05 15:31:31.891] Queue size: 0. Buffer size: 22. States seen: 22
+[2022-04-05 15:31:31.891] Closing the log.
+[2022-04-05 15:31:45.370] learner started
+[2022-04-05 15:31:45.370] Running the learner on device 0: /cpu:0
+[2022-04-05 15:32:45.064] learner started
+[2022-04-05 15:32:45.064] Running the learner on device 0: /cpu:0
+[2022-04-05 15:34:01.483] learner started
+[2022-04-05 15:34:01.483] Running the learner on device 0: /cpu:0
+[2022-04-05 15:34:03.690] Step: 1
+[2022-04-05 15:34:03.690] Collected     6 states from   1 games, 0.1 states/s; 0.0 states/(s*actor), game length: 6.0
+[2022-04-05 15:34:03.690] Queue size: 0. Buffer size: 6. States seen: 6
+[2022-04-05 15:34:03.690] Closing the log.
+[2022-04-05 15:35:28.746] learner started
+[2022-04-05 15:35:28.746] Running the learner on device 0: /cpu:0
+[2022-04-05 15:35:30.537] Step: 1
+[2022-04-05 15:35:30.537] Collected     5 states from   1 games, 0.1 states/s; 0.0 states/(s*actor), game length: 5.0
+[2022-04-05 15:35:30.537] Queue size: 0. Buffer size: 5. States seen: 5
+[2022-04-05 15:35:30.537] Closing the log.
+[2022-04-05 15:35:54.654] learner started
+[2022-04-05 15:35:54.654] Running the learner on device 0: /cpu:0
+[2022-04-05 15:39:36.058] learner started
+[2022-04-05 15:39:36.058] Running the learner on device 0: /cpu:0
+[2022-04-05 15:39:37.357] Step: 1
+[2022-04-05 15:39:37.357] Collected     4 states from   1 games, 0.1 states/s; 0.0 states/(s*actor), game length: 4.0
+[2022-04-05 15:39:37.357] Queue size: 0. Buffer size: 4. States seen: 4
+[2022-04-05 15:39:37.357] Closing the log.
+[2022-04-05 15:39:51.713] learner started
+[2022-04-05 15:39:51.713] Running the learner on device 0: /cpu:0
+[2022-04-05 15:40:07.715] learner started
+[2022-04-05 15:40:07.715] Running the learner on device 0: /cpu:0
+[2022-04-05 15:42:47.018] learner started
+[2022-04-05 15:42:47.018] Running the learner on device 0: /cpu:0
+[2022-04-05 15:42:52.562] learner started
+[2022-04-05 15:42:52.562] Running the learner on device 0: /cpu:0
+[2022-04-05 15:43:09.586] learner started
+[2022-04-05 15:43:09.586] Running the learner on device 0: /cpu:0
+[2022-04-05 15:43:31.910] learner started
+[2022-04-05 15:43:31.910] Running the learner on device 0: /cpu:0
+[2022-04-05 15:45:41.381] learner started
+[2022-04-05 15:45:41.381] Running the learner on device 0: /cpu:0
+[2022-04-05 15:46:05.139] learner started
+[2022-04-05 15:46:05.139] Running the learner on device 0: /cpu:0
+[2022-04-05 15:46:36.346] learner started
+[2022-04-05 15:46:36.346] Running the learner on device 0: /cpu:0
+[2022-04-05 15:46:56.122] learner started
+[2022-04-05 15:46:56.122] Running the learner on device 0: /cpu:0
+[2022-04-05 15:48:33.688] learner started
+[2022-04-05 15:48:33.688] Running the learner on device 0: /cpu:0
+[2022-04-05 15:48:35.520] Step: 1
+[2022-04-05 15:48:35.520] Collected     4 states from   1 games, 0.1 states/s; 0.0 states/(s*actor), game length: 4.0
+[2022-04-05 15:48:35.520] Queue size: 0. Buffer size: 4. States seen: 4
+[2022-04-05 15:48:35.520] Closing the log.
+[2022-04-05 15:49:31.169] learner started
+[2022-04-05 15:49:31.169] Running the learner on device 0: /cpu:0
+[2022-04-05 15:49:51.046] learner started
+[2022-04-05 15:49:51.046] Running the learner on device 0: /cpu:0
+[2022-04-05 15:49:53.725] Step: 1
+[2022-04-05 15:49:53.725] Collected     6 states from   1 games, 0.1 states/s; 0.0 states/(s*actor), game length: 6.0
+[2022-04-05 15:49:53.725] Queue size: 0. Buffer size: 6. States seen: 6
+[2022-04-05 15:49:53.725] Closing the log.
+[2022-04-05 15:52:31.029] learner started
+[2022-04-05 15:52:31.029] Running the learner on device 0: /cpu:0
+[2022-04-05 15:52:36.825] Step: 1
+[2022-04-05 15:52:36.825] Collected    16 states from   1 games, 0.2 states/s; 0.1 states/(s*actor), game length: 16.0
+[2022-04-05 15:52:36.825] Queue size: 0. Buffer size: 16. States seen: 16
+[2022-04-05 15:52:36.825] Closing the log.
+[2022-04-05 15:53:11.756] learner started
+[2022-04-05 15:53:11.756] Running the learner on device 0: /cpu:0
+[2022-04-05 15:53:34.410] learner started
+[2022-04-05 15:53:34.410] Running the learner on device 0: /cpu:0
+[2022-04-05 15:55:09.609] learner started
+[2022-04-05 15:55:09.609] Running the learner on device 0: /cpu:0
+[2022-04-05 15:55:29.598] learner started
+[2022-04-05 15:55:29.598] Running the learner on device 0: /cpu:0
+[2022-04-05 15:55:31.575] Step: 1
+[2022-04-05 15:55:31.575] Collected 21845 states from 20525 games, 352.5 states/s; 88.1 states/(s*actor), game length: 1.1
+[2022-04-05 15:55:31.575] Queue size: 0. Buffer size: 21845. States seen: 21845
+[2022-04-05 15:55:37.897] Checkpoint saved: ./checkpoint--1
+[2022-04-05 15:55:37.897] Losses: policy: 2.5296, value: 0.8241, l2: 0.0033, sum: 3.3570
+[2022-04-05 15:55:37.897] Cache size: 491/262144: 0.2%, hits: 2235840, misses: 1151, hit rate: 99.949%
+[2022-04-05 15:55:37.897] 
+[2022-04-05 15:55:37.925] Step: 2
+[2022-04-05 15:55:37.925] Collected 21845 states from 20514 games, 3440.2 states/s; 860.0 states/(s*actor), game length: 1.1
+[2022-04-05 15:55:37.925] Queue size: 21845. Buffer size: 43690. States seen: 43690
+[2022-04-05 15:56:14.793] learner started
+[2022-04-05 15:56:14.793] Running the learner on device 0: /cpu:0
+[2022-04-05 15:57:29.670] learner started
+[2022-04-05 15:57:29.670] Running the learner on device 0: /cpu:0
+[2022-04-05 15:58:40.718] learner started
+[2022-04-05 15:58:40.719] Running the learner on device 0: /cpu:0
+[2022-04-05 16:03:19.869] learner started
+[2022-04-05 16:03:19.869] Running the learner on device 0: /cpu:0
+[2022-04-05 16:04:13.581] learner started
+[2022-04-05 16:04:13.581] Running the learner on device 0: /cpu:0
+[2022-04-05 16:05:05.321] learner started
+[2022-04-05 16:05:05.321] Running the learner on device 0: /cpu:0
+[2022-04-05 16:05:31.542] learner started
+[2022-04-05 16:05:31.542] Running the learner on device 0: /cpu:0
+[2022-04-05 16:06:25.842] learner started
+[2022-04-05 16:06:25.842] Running the learner on device 0: /cpu:0
+[2022-04-05 16:06:38.136] learner started
+[2022-04-05 16:06:38.136] Running the learner on device 0: /cpu:0
+[2022-04-05 16:07:32.873] learner started
+[2022-04-05 16:07:32.873] Running the learner on device 0: /cpu:0
+[2022-04-05 16:07:46.011] learner started
+[2022-04-05 16:07:46.011] Running the learner on device 0: /cpu:0
+[2022-04-05 16:07:50.785] learner started
+[2022-04-05 16:07:50.785] Running the learner on device 0: /cpu:0
+[2022-04-05 16:08:37.472] learner started
+[2022-04-05 16:08:37.472] Running the learner on device 0: /cpu:0
+[2022-04-05 16:38:48.798] learner started
+[2022-04-05 16:38:48.798] Running the learner on device 0: /cpu:0
+[2022-04-05 16:38:57.794] learner started
+[2022-04-05 16:38:57.794] Running the learner on device 0: /cpu:0
+[2022-04-05 16:39:26.538] learner started
+[2022-04-05 16:39:26.538] Running the learner on device 0: /cpu:0
+[2022-04-05 16:45:05.789] learner started
+[2022-04-05 16:45:05.789] Running the learner on device 0: /cpu:0
+[2022-04-05 16:45:45.132] learner started
+[2022-04-05 16:45:45.132] Running the learner on device 0: /cpu:0
+[2022-04-05 16:45:49.965] Step: 1
+[2022-04-05 16:45:49.965] Collected    50 states from  10 games, 0.8 states/s; 0.2 states/(s*actor), game length: 5.0
+[2022-04-05 16:45:49.965] Queue size: 0. Buffer size: 50. States seen: 50
+[2022-04-05 16:45:49.965] Closing the log.
+[2022-04-05 16:46:15.800] learner started
+[2022-04-05 16:46:15.800] Running the learner on device 0: /cpu:0
+[2022-04-05 16:46:20.493] Step: 1
+[2022-04-05 16:46:20.493] Collected   720 states from 113 games, 11.1 states/s; 2.8 states/(s*actor), game length: 6.4
+[2022-04-05 16:46:20.493] Queue size: 0. Buffer size: 720. States seen: 720
+[2022-04-05 16:46:20.493] Closing the log.
+[2022-04-05 16:48:00.496] learner started
+[2022-04-05 16:48:00.496] Running the learner on device 0: /cpu:0
+[2022-04-05 16:48:03.451] Step: 1
+[2022-04-05 16:48:03.451] Collected     4 states from   1 games, 0.1 states/s; 0.0 states/(s*actor), game length: 4.0
+[2022-04-05 16:48:03.451] Queue size: 0. Buffer size: 4. States seen: 4
+[2022-04-05 16:48:03.451] Closing the log.
+[2022-04-05 16:49:52.635] learner started
+[2022-04-05 16:49:52.635] Running the learner on device 0: /cpu:0
+[2022-04-05 16:52:33.391] learner started
+[2022-04-05 16:52:33.391] Running the learner on device 0: /cpu:0
+[2022-04-05 16:52:36.441] Step: 1
+[2022-04-05 16:52:36.441] Collected   177 states from  25 games, 2.8 states/s; 0.7 states/(s*actor), game length: 7.1
+[2022-04-05 16:52:36.441] Queue size: 0. Buffer size: 177. States seen: 177
+[2022-04-05 16:52:36.441] Closing the log.
+[2022-04-05 16:53:42.616] learner started
+[2022-04-05 16:53:42.616] Running the learner on device 0: /cpu:0
+[2022-04-06 15:06:47.593] learner started
+[2022-04-06 15:06:47.593] Running the learner on device 0: /cpu:0
+[2022-04-06 15:06:48.837] Step: 1
+[2022-04-06 15:06:48.837] Collected 21845 states from 21845 games, 356.7 states/s; 89.2 states/(s*actor), game length: 1.0
+[2022-04-06 15:06:48.837] Queue size: 0. Buffer size: 21845. States seen: 21845
+[2022-04-06 15:06:53.910] Checkpoint saved: ./checkpoint--1
+[2022-04-06 15:06:53.910] Losses: policy: 2.8038, value: 0.1354, l2: 0.0033, sum: 2.9424
+[2022-04-06 15:06:53.910] Cache size: 1/262144: 0.0%, hits: 202258, misses: 6, hit rate: 99.997%
+[2022-04-06 15:06:53.910] 
+[2022-04-06 15:06:53.937] Step: 2
+[2022-04-06 15:06:53.937] Collected 21845 states from 21845 games, 4282.7 states/s; 1070.7 states/(s*actor), game length: 1.0
+[2022-04-06 15:06:53.937] Queue size: 21845. Buffer size: 43690. States seen: 43690
+[2022-04-06 15:07:41.537] learner started
+[2022-04-06 15:07:41.537] Running the learner on device 0: /cpu:0
+[2022-04-06 15:07:42.790] Step: 1
+[2022-04-06 15:07:42.790] Collected   202 states from 202 games, 3.3 states/s; 0.8 states/(s*actor), game length: 1.0
+[2022-04-06 15:07:42.790] Queue size: 0. Buffer size: 202. States seen: 202
+[2022-04-06 15:07:42.790] Closing the log.
+[2022-04-06 15:07:55.129] learner started
+[2022-04-06 15:07:55.129] Running the learner on device 0: /cpu:0
+[2022-04-06 15:08:05.866] Step: 1
+[2022-04-06 15:08:05.866] Collected  1728 states from 1728 games, 24.4 states/s; 6.1 states/(s*actor), game length: 1.0
+[2022-04-06 15:08:05.866] Queue size: 0. Buffer size: 1728. States seen: 1728
+[2022-04-06 15:08:05.867] Closing the log.
+[2022-04-06 15:08:47.046] learner started
+[2022-04-06 15:08:47.046] Running the learner on device 0: /cpu:0
+[2022-04-06 15:08:50.271] Step: 1
+[2022-04-06 15:08:50.271] Collected     6 states from   1 games, 0.1 states/s; 0.0 states/(s*actor), game length: 6.0
+[2022-04-06 15:08:50.271] Queue size: 0. Buffer size: 6. States seen: 6
+[2022-04-06 15:08:50.272] Closing the log.
+[2022-04-06 15:12:14.964] learner started
+[2022-04-06 15:12:14.964] Running the learner on device 0: /cpu:0
+[2022-04-06 15:13:05.205] learner started
+[2022-04-06 15:13:05.205] Running the learner on device 0: /cpu:0
+[2022-04-06 15:14:31.372] learner started
+[2022-04-06 15:14:31.372] Running the learner on device 0: /cpu:0
+[2022-04-06 15:15:26.097] learner started
+[2022-04-06 15:15:26.097] Running the learner on device 0: /cpu:0
+[2022-04-06 15:16:04.251] learner started
+[2022-04-06 15:16:04.251] Running the learner on device 0: /cpu:0
+[2022-04-06 15:17:12.366] learner started
+[2022-04-06 15:17:12.366] Running the learner on device 0: /cpu:0
+[2022-04-06 15:18:42.677] learner started
+[2022-04-06 15:18:42.677] Running the learner on device 0: /cpu:0
+[2022-04-06 15:21:51.425] learner started
+[2022-04-06 15:21:51.425] Running the learner on device 0: /cpu:0
+[2022-04-06 15:25:51.197] learner started
+[2022-04-06 15:25:51.197] Running the learner on device 0: /cpu:0
+[2022-04-06 15:28:33.036] learner started
+[2022-04-06 15:28:33.036] Running the learner on device 0: /cpu:0
+[2022-04-06 15:28:47.666] learner started
+[2022-04-06 15:28:47.666] Running the learner on device 0: /cpu:0
+[2022-04-06 15:28:52.410] Step: 1
+[2022-04-06 15:28:52.410] Collected    11 states from   1 games, 0.2 states/s; 0.0 states/(s*actor), game length: 11.0
+[2022-04-06 15:28:52.410] Queue size: 0. Buffer size: 11. States seen: 11
+[2022-04-06 15:28:52.410] Closing the log.
+[2022-04-06 15:28:56.427] learner started
+[2022-04-06 15:28:56.427] Running the learner on device 0: /cpu:0
+[2022-04-06 15:29:27.236] learner started
+[2022-04-06 15:29:27.236] Running the learner on device 0: /cpu:0
+[2022-04-06 15:30:13.445] Step: 1
+[2022-04-06 15:30:13.445] Collected   566 states from  77 games, 5.3 states/s; 1.3 states/(s*actor), game length: 7.4
+[2022-04-06 15:30:13.445] Queue size: 0. Buffer size: 566. States seen: 566
+[2022-04-06 15:30:13.446] Closing the log.
+[2022-04-06 15:33:01.389] learner started
+[2022-04-06 15:33:01.389] Running the learner on device 0: /cpu:0
+[2022-04-06 15:33:08.093] Step: 1
+[2022-04-06 15:33:08.093] Collected    57 states from   9 games, 0.9 states/s; 0.2 states/(s*actor), game length: 6.3
+[2022-04-06 15:33:08.093] Queue size: 0. Buffer size: 57. States seen: 57
+[2022-04-06 15:33:08.093] Closing the log.
+[2022-04-06 15:38:48.698] learner started
+[2022-04-06 15:38:48.698] Running the learner on device 0: /cpu:0
+[2022-04-06 15:38:59.165] Step: 1
+[2022-04-06 15:38:59.165] Collected    80 states from   5 games, 1.1 states/s; 0.3 states/(s*actor), game length: 16.0
+[2022-04-06 15:38:59.165] Queue size: 0. Buffer size: 80. States seen: 80
+[2022-04-06 15:38:59.165] Closing the log.
+[2022-04-06 15:41:09.558] learner started
+[2022-04-06 15:41:09.558] Running the learner on device 0: /cpu:0
+[2022-04-06 15:41:33.283] Step: 1
+[2022-04-06 15:41:33.283] Collected    55 states from   5 games, 0.7 states/s; 0.2 states/(s*actor), game length: 11.0
+[2022-04-06 15:41:33.283] Queue size: 0. Buffer size: 55. States seen: 55
+[2022-04-06 15:41:33.283] Closing the log.
+[2022-04-06 15:41:42.074] learner started
+[2022-04-06 15:41:42.074] Running the learner on device 0: /cpu:0
+[2022-04-06 15:42:17.884] Step: 1
+[2022-04-06 15:42:17.884] Collected    95 states from   9 games, 1.0 states/s; 0.2 states/(s*actor), game length: 10.6
+[2022-04-06 15:42:17.884] Queue size: 0. Buffer size: 95. States seen: 95
+[2022-04-06 15:42:17.884] Closing the log.

@@ -1,0 +1,21 @@
+[2022-04-06 15:41:42.074] evaluator-1 started
+[2022-04-06 15:41:42.075] Running MCTS with 300 simulations
+[2022-04-06 15:41:45.790] Game 1: Returns: -1 1; Actions: x(3,3) o(0,0) x(0,2) o(4,4) x(1,0) o(2,4) x(5,5) o(3,4) x(1,4) o(5,4)
+[2022-04-06 15:41:45.790] Game 1: AZ: -1.00, MCTS:  1.00, MCTS-sims: 300, length: 10
+[2022-04-06 15:41:45.790] Running MCTS with 948 simulations
+[2022-04-06 15:41:50.149] Game 2: Returns: 1 -1; Actions: x(2,5) o(3,3) x(3,5) o(2,0) x(2,1) o(2,4) x(1,5) o(0,0) x(4,5)
+[2022-04-06 15:41:50.150] Game 2: AZ: -1.00, MCTS:  1.00, MCTS-sims: 948, length: 9
+[2022-04-06 15:41:50.150] Running MCTS with 948 simulations
+[2022-04-06 15:41:55.698] Game 3: Returns: -1 1; Actions: x(3,3) o(3,2) x(0,2) o(1,1) x(4,1) o(2,1) x(1,0) o(3,1) x(2,0) o(0,1)
+[2022-04-06 15:41:55.698] Game 3: AZ: -1.00, MCTS:  1.00, MCTS-sims: 948, length: 10
+[2022-04-06 15:41:55.698] Running MCTS with 9486 simulations
+[2022-04-06 15:42:00.704] Game 4: Returns: 1 -1; Actions: x(3,3) o(1,5) x(2,3) o(2,0) x(1,3) o(4,3) x(0,3)
+[2022-04-06 15:42:00.704] Game 4: AZ: -1.00, MCTS:  1.00, MCTS-sims: 9486, length: 7
+[2022-04-06 15:42:00.704] Running MCTS with 30000 simulations
+[2022-04-06 15:42:05.183] Game 5: Returns: 1 -1; Actions: x(3,3) o(1,5) x(2,2) o(2,4) x(4,4) o(5,5) x(1,1)
+[2022-04-06 15:42:05.183] Game 5: AZ: -1.00, MCTS:  1.00, MCTS-sims: 30000, length: 7
+[2022-04-06 15:42:05.183] Running MCTS with 94868 simulations
+[2022-04-06 15:42:14.341] Game 6: Returns: 1 -1; Actions: x(3,3) o(1,5) x(2,2) o(2,4) x(1,1) o(0,0) x(4,4)
+[2022-04-06 15:42:14.341] Game 6: AZ: -1.00, MCTS:  1.00, MCTS-sims: 94868, length: 7
+[2022-04-06 15:42:14.341] Got a quit.
+[2022-04-06 15:42:14.341] Closing the log.
