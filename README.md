@@ -29,3 +29,10 @@ dans le répertoire open_spiel,
 ```
 
 où l'argument player2=[...] permet de choisir entre nous (human), mcts ou az (alpha_zero)
+
+## modifier les paramètres du jeu
+Dans tic_tac_toe.h, on peut modifier :
+
+- inline constexpr int kNumRows = 6;
+- inline constexpr int kNumCols = 6;
+- inline constexpr int kSizeLine = 4;
