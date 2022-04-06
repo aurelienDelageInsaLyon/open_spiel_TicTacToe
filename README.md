@@ -2,7 +2,8 @@
 
 ## installation d'open_spiel
 
-suivre le guide d'installation dans open_spiel/readme.md
+- suivre le guide d'installation dans open_spiel/readme.md
+- suivre le guide d'installation dans open_spiel/algorithm/alpha_zero_toarch/readme.md
 
 ## compilation
 
